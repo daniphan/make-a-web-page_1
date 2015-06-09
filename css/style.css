@@ -1,0 +1,37 @@
+h1 {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 50%;
+  height: 30%;
+  color: white;
+  font-family: fantasy;
+  background-color: rgb(9, 74, 22);
+  text-align: center;
+  border-radius: 20px;
+}
+
+#special {
+  text-align: center;
+}
+
+.subtitle {
+  color: black;
+  font-weight: bold;
+}
+
+.big_blurb {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 50%;
+  height: 30%;
+  background-color: white;
+  border-radius: 8px;
+}
+
+body {
+  background-color: rgb(135, 178, 106);
+}
